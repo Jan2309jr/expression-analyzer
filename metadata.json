@@ -1,0 +1,7 @@
+{
+  "name": "Expression Analyzer",
+  "description": "An advanced AI-powered facial expression analyzer that uses your camera to detect emotions and provide micro-expression insights in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
